@@ -1,0 +1,7 @@
+{
+    "require": {
+        "sujalpatel/inttoenglish": "^1.0",
+        "ballen/distical": "^2.0"
+    
+    }
+}
