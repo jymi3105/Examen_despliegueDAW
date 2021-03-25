@@ -20,7 +20,7 @@ $cuerpo='<!DOCTYPE html>
     <div class="row">
 
         <div class="col s12  blue center-align card-panel teal lighten-2">
-            <h4>Examen Despliegue Aplicaciones Web</h4>
+            <h4>Examen Despliegue Aplicaciones</h4>
         </div>
         
         <div class="col s12  ">
